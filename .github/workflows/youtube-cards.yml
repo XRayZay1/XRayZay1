@@ -15,4 +15,5 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          playlist_id: UULFokYSIwTj40ltB7L2SzBR1A
+          channel_id: UCFokYSIwTj40ltB7L2SzBR1A
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
