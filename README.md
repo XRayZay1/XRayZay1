@@ -1,4 +1,4 @@
-### What's Poppin'!
+# What's Poppin'!
 - ✊🏼 I’m @XRayZay_ but you can just call me Zay. You can catch me on [Twitch](https://www.twitch.tv/xrayzay_) & [Youtube](https://www.youtube.com/@XRayZay1)!
 - 👀 I’m interested in Art, Music, Gaming, & Development
 - 🌱 I’m currently learning Github, Saxophone, & 3D Modeling
@@ -6,6 +6,13 @@
 - 📫 How to reach me, xrayzaytv@gmail.com would probably be the fastest way.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love swimming, dancing, & playing music. 
+
+## Languages
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br/>
 
 ## Zay's GitHub Stats
 <!---https://github.com/anuraghazra/github-readme-stats--->
