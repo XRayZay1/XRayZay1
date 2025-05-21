@@ -7,9 +7,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love swimming, dancing, & playing music. 
 
+## Zay's GitHub Stats
 <!---https://github.com/anuraghazra/github-readme-stats--->
 [![Zay's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRayZay1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Recent Youtube Vids 📺
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Midnight Walk - Part 1 (Chapter 1 + 2)](https://ytcards.demolab.com/?id=01rvpSERX8w&title=The+Midnight+Walk+-+Part+1+%28Chapter+1+%2B+2%29&lang=en&timestamp=1747331259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Midnight Walk - Part 1 (Chapter 1 + 2)")](https://www.youtube.com/watch?v=01rvpSERX8w)
